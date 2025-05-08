@@ -17,5 +17,8 @@
       "homepage": "http://www.anigero.com",
       "role": "Developer"
     }
-  ]
+  ],
+  "require": {
+    "ext-gd": "*"
+  }
 }
